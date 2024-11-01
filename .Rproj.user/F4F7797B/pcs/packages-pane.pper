@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "G:/My Drive/Uni/UZH/Projects/KMP_PUPS/2ndGen/Flutamide_new/2ndGen/renv/library/windows/R-4.4/x86_64-w64-mingw32",
+        "installDependencies": true
+    }
+}
